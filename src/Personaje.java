@@ -1,6 +1,6 @@
 // TALLER FINAL: JAVA POO
 // AUTOR: URIEL JARAMILLO
-// FECHA: 29/09/2026
+// FECHA: 29-09-2026
 // CLASE: Personaje (clase base)
 
 public class Personaje {
